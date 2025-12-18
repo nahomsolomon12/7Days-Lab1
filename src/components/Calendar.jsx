@@ -19,9 +19,9 @@ export default function Calendar() {
           <td></td>
           <td></td>
           <td></td>
-          <td>
-            <Deacon name="Dn. Nahom" number="555-1234" color="red" />
-          </td>
+
+          <Deacon name="Dn. Nahom" number="555-1234" color="green" />
+
           <td></td>
           <td></td>
           <td></td>
@@ -43,9 +43,9 @@ export default function Calendar() {
           <td></td>
           <td></td>
           <td></td>
-          <td>
-            <Deacon name="Dn. Nahom" number="555-1234" color="yellow" />
-          </td>
+
+          <Deacon name="Dn. Nahom" number="555-1234" color="pink" />
+
           <td></td>
         </tr>
         <tr>
@@ -70,9 +70,9 @@ export default function Calendar() {
         </tr>
         <tr>
           <td>2 pm</td>
-          <td>
-            <Deacon name="Dn. Nahom" number="555-1234" color="green" />
-          </td>
+
+          <Deacon name="Dn. Nahom" number="555-1234" color="green" />
+
           <td></td>
           <td></td>
           <td></td>

@@ -1,8 +1,11 @@
 const Deacon = (props) => {
   return (
     <div>
-      <h2>{props.name}</h2>
-      <h5>Contact Number: {props.number}</h5>
+      <td className={"Event " + props.color}>
+        {props.name}
+        <br />
+        Contact Number: {props.number}
+      </td>
     </div>
   );
 };
